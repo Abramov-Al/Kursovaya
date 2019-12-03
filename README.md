@@ -21,7 +21,17 @@
 
 Тема курсового проекта: Построение модели визуализации рельефа.
 
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model_kurs1.png)
 
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model_kurs2.png)
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model_kurs3.png)
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model_kurs4.png)
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model_kurs5.png)
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model_kurs6.png)
 
 ## Лабораторная 5
 
