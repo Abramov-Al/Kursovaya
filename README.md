@@ -23,19 +23,19 @@
 
 Тема курсового проекта: Построение модели визуализации рельефа.
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model.png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model1.png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model%20(1).png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model1%20(1).png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model%20(2).png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model1%20(2).png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model%20(3).png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model1%20(3).png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model%20(4).png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model1%20(4).png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model%20(5).png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model1%20(5).png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model%20(6).png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/model1%20(6).png)
 
 ## Лабораторная 5
 
