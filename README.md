@@ -37,6 +37,30 @@
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/6.png)
 
+ER-диаграммы для всех модулей:
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag1.png)
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag2.png)
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag3.png)
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag4.png)
+
+Расчёт трудозатрат на выполнение проекта: 
+
+Определение количества функциональных точек:
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/tabl1.png)
+
+Трудозатраты по FPA IFPUG:
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/tabl2.png)
+
+Трудозатраты по COCOMO II:
+
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/tabl3.png)
+
 ## Лабораторная 5
 
 ## Лабораторная 6
