@@ -29,13 +29,13 @@
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/2.png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/3.png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd1.png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/4.png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd2.png)
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/5.png)
 
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/6.png)
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd3.png)
 
 ER-диаграммы для всех модулей:
 
