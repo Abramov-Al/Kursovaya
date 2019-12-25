@@ -45,13 +45,19 @@
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd2.png)
 
-ER-диаграммы для всех модулей:
+ER-диаграммы для всех потоков:
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag1.png)
 
+ER-диаграммы для всех модулей:
+
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag2.png)
 
+ER-диаграммы для всех ролей:
+
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag3.png)
+
+ER-диаграммы для всех программных модулей:
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag4.png)
 
