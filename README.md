@@ -39,11 +39,11 @@
 * Определение конфигурации программных средств - Встроенные.
 * Определение допустимых видов хранилищ и их размещения - база данных на сервере, память устройства.
 
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd.png)
+
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd1.png)
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd2.png)
-
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd3.png)
 
 ER-диаграммы для всех модулей:
 
