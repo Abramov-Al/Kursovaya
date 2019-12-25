@@ -45,6 +45,8 @@
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd2.png)
 
+## Лабораторная 6
+
 ER-диаграммы для всех потоков:
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/diag1.png)
@@ -94,7 +96,5 @@ t (моделирование комбинированным методом) = 2
 Трудозатраты по COCOMO II:
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/tabl3.png)
-
-## Лабораторная 6
 
 ## Лабораторная 7
