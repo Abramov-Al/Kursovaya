@@ -29,11 +29,19 @@
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/2.png)
 
+![none](https://github.com/Abramov-Al/Kursovaya/blob/master/5.png)
+
+
+## Лабораторная 5
+
+Определение основных средств автоматизации
+* Определение конфигурации технических средств - сервер, пк.
+* Определение конфигурации программных средств - Встроенные.
+* Определение допустимых видов хранилищ и их размещения - база данных на сервере, память устройства.
+
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd1.png)
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd2.png)
-
-![none](https://github.com/Abramov-Al/Kursovaya/blob/master/5.png)
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/dfd3.png)
 
@@ -60,8 +68,6 @@ ER-диаграммы для всех модулей:
 Трудозатраты по COCOMO II:
 
 ![none](https://github.com/Abramov-Al/Kursovaya/blob/master/tabl3.png)
-
-## Лабораторная 5
 
 ## Лабораторная 6
 
